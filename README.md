@@ -15,7 +15,7 @@ This helper uses macOS kernel logs ``log stream`` to detect if there's a stutter
 
 ![Console](./.media/console.png)
 
-The error message keep showing and the airpods will keep stuttering and eventually the bluetooth device will disconnect. The solution to temporarily fix the error is to Switch betwen two interface from `Airpods Pro` to `Blackhole 2ch` and back to `Airpods Pro`. When switching is done, the audio clears out and continue playing without bluetooth disconnecting by itself.
+The error message keep showing and the airpods will keep stuttering and eventually the bluetooth device will disconnect. The solution to temporarily fix the error is to Switch between two interface from `Airpods Pro` to `Blackhole 2ch` and back to `Airpods Pro`. When switching is done, the audio clears out and continue playing without bluetooth disconnecting by itself.
 
 <center>
 <img src="./.media/interface.png" width="300px" alt="interface"/>
