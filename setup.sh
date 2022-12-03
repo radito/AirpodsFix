@@ -18,6 +18,8 @@ pip3 install python-dotenv
 echo "Running Interface Configuration"
 echo -e "Please connect your bluetooth device !\n"
 
+touch .env
+
 python3 interface.py
 
 echo "Setup Complete !"
